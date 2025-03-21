@@ -1,0 +1,41 @@
+.our-speciality {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid rgba(0, 153, 51, 1);
+    border-radius: 3px;
+    float: left;
+    margin: 0 0 20px;
+    width: 256px;
+}
+#amazingcarousel-container-2 {
+    padding: 16px 16px;
+}
+.gradient {
+    background:url(../images/name-bg.jpg) ;
+}
+button, input {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 12px;
+    height: 30px;
+    line-height: normal;
+    margin: 5px 15px;
+    padding: 0 5px;
+    width: 205px;
+}
+button, input, select, textarea {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 12px;
+    height: 30px;
+    margin: 5px 15px;
+    padding: 0 5px;
+    vertical-align: middle;
+    width: 205px;
+}
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+    background-color: #FFFB00;
+    cursor: pointer;
+    font-size: 15px;
+    margin-bottom: 35px;
+    width: 100px;
+}
